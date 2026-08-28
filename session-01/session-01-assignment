@@ -1,0 +1,65 @@
+# Session 1 Assignment — Exploring the Olist Dataset
+
+## Objective
+
+Use Python and Google Colab to explore the Olist dataset and begin thinking about what questions can be answered with data.
+
+## Tasks
+
+### 1. Open Google Colab
+
+Create a new Google Colab notebook.
+
+### 2. Load the Olist Dataset
+
+Load the assigned Olist dataset into your notebook using Pandas.
+
+### 3. Display the First Few Rows
+
+Display the first few rows of your DataFrame using:
+
+```python
+df.head()
+```
+
+### 4. Inspect the Dataset
+
+Use the following to explore the structure and basic statistics of your DataFrame:
+
+```python
+df.shape
+df.info()
+df.describe()
+```
+
+### 5. Write Down THREE Things You Notice
+
+Look through the output and write down **three observations** about the dataset.
+
+These could relate to things such as:
+
+* the number of rows or columns;
+* the types of data present;
+* missing values;
+* unusual values;
+* numerical ranges;
+* patterns you notice;
+* anything else that catches your attention.
+
+There is no single correct set of observations. **Explain what you noticed.**
+
+### 6. Write TWO Questions You Could Investigate
+
+Based on your initial exploration, write down **two questions that could potentially be answered using the dataset**.
+
+Think beyond simply describing the data. Consider questions that could lead to an analysis or investigation.
+
+## Submission
+
+Submit:
+
+* Your Google Colab notebook or notebook link via the Google form provided
+* A word doc containing 3 observations and 2 investigation questions
+
+
+The goal of this assignment is to practice looking at data, noticing things, and asking useful questions.
