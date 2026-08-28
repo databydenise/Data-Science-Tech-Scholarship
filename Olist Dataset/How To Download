@@ -1,0 +1,16 @@
+## Dataset
+
+For this mentorship, we will be working with the **Olist Brazilian E-Commerce dataset** from Kaggle.
+
+**Dataset:** [Olist Brazilian E-Commerce Public Dataset] https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+### How to Download
+
+1. Open the Kaggle dataset using the link above.
+2. Click **Download**.
+3. **Do not download the individual CSV files shown in the sidebar.**
+4. In the download options, scroll down and select **Download as ZIP**.
+5. Extract the ZIP file on your computer.
+6. Keep the CSV files together in the extracted folder — we will use them during the practical session.
+
+> **Important:** Download the dataset as a **ZIP file**, not as individual CSV files.
